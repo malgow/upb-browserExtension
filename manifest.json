@@ -1,0 +1,25 @@
+{
+
+    "manifest_version": 2,
+    "name": "(un)polite bot",
+    "version": "2",
+  
+    "description": "a helpful bot that wishes the very best and worst for you",
+  
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "malgow@malgow.net"
+      }
+    },
+
+    "background":{
+      "scripts":["popup/(un)politeBot.js"]
+    },
+
+    "browser_action": {
+      "default_icon": "icons/jiggly.png",
+      "default_title": "(un)polite bot",
+      "default_popup": "popup/botPopup.html"
+    }
+  }
+  
