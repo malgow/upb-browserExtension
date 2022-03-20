@@ -1,4 +1,4 @@
-# -un-politeBot
+# (un)politeBot
 a helpful bot that wishes both the best (and worst) for you!<br />
 _(website link: https://malgow.net/(un)politeBot )_ <br />
 _(google chrome link: https://chrome.google.com/webstore/detail/unpolitebot/lbiljgbdngfccmlpeelfecfcmadlelde )_ <br />
@@ -17,4 +17,4 @@ this was my very first attempt at creating a browser extension, i think it turne
 
 one of the mechanics this small project uses that i'm most proud of is accessing and using a database. this allows me to update the list of polite/unpolite words that the bot can say whenever i want, without the need of going through the process of updating and pushing files.
 
-This idea was later experimented into different forms, such as a Instagram filter and a mobile app! i really liked working with this idea and wanted to do more with it, those two extra projects was a result of that curiosity/challenge.
+this idea was later experimented into different forms, such as a Instagram filter and a mobile app! i really liked working with this idea and wanted to do more with it, those two extra projects was a result of that curiosity/challenge.
