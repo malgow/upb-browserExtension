@@ -1,5 +1,5 @@
 # -un-politeBot
-a helpful bot that wishes both the best (and worst) for you!
+a helpful bot that wishes both the best (and worst) for you!<br />
 _(website link: https://malgow.net/(un)politeBot )_
 _(google chrome link: https://chrome.google.com/webstore/detail/unpolitebot/lbiljgbdngfccmlpeelfecfcmadlelde )_
 _(mozilla firefox link: https://addons.mozilla.org/en-GB/firefox/addon/un-politebot )_
