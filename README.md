@@ -3,7 +3,7 @@ a helpful bot that wishes both the best (and worst) for you!
 _(website link: https://malgow.net/(un)politeBot )_
 
 ![preview image 1](https://malgow.net/images/carousel/(u)pb%20carousel/upb2.PNG)
-
+![preview image 2](https://malgow.net/images/carousel/(u)pb%20carousel/upb4.PNG)
 
 ### description
 A bot that will always be there for you when you need them most, a bot that looks out for you, a bot that appraises you, a bot that takes care of your mental health, a bot that loves you. Your newest best-friend!, (un)politeBot :)
