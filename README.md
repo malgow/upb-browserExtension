@@ -13,6 +13,6 @@ a bot that will always be there for you when you need them most, a bot that look
 ### bts
 this was my very first attempt at creating a browser extension, i think it turned out pretty well! i'm proud of myself. this extension works in both Mozilla Firefox and Google Chrome browsers.
 
-one of the mechanics this small project uses that i'm most proud of is accessing and using a database. this allows me to update the list of polite/unpolite words that the bot can say whenever i want, without the need of going through the process of updating files.
+one of the mechanics this small project uses that i'm most proud of is accessing and using a database. this allows me to update the list of polite/unpolite words that the bot can say whenever i want, without the need of going through the process of updating and pushing files.
 
 This idea was later experimented into different forms, such as a Instagram filter and a mobile app! i really liked working with this idea and wanted to do more with it, those two extra projects was a result of that curiosity/challenge.
