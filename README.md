@@ -6,7 +6,7 @@ _(website link: https://malgow.net/(un)politeBot )_
 ![preview image 2](https://malgow.net/images/carousel/(u)pb%20carousel/upb4.PNG)
 
 ### description
-A bot that will always be there for you when you need them most, a bot that looks out for you, a bot that appraises you, a bot that takes care of your mental health, a bot that loves you. Your newest best-friend!, (un)politeBot :)
+a bot that will always be there for you when you need them most, a bot that looks out for you, a bot that appraises you, a bot that takes care of your mental health, a bot that loves you. Your newest best-friend!, (un)politeBot :)
 
 ...or, with the switch of a button, your greatest enemy. A bot that degrades(???) you, a bot that mocks you, a bot that constantly prays on your downfall, a bot that reminds you of your biggest flaws. Your greatest enemy.
 
