@@ -2,7 +2,7 @@
 a helpful bot that wishes both the best (and worst) for you!
 _(website link: https://malgow.net/(un)politeBot )_
 
-![alt text](https://malgow.net/images/carousel/(u)pb%20carousel/upb2.PNG)
+![preview image 1](https://malgow.net/images/carousel/(u)pb%20carousel/upb2.PNG)
 
 
 ### description
