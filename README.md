@@ -1,8 +1,8 @@
 # -un-politeBot
 a helpful bot that wishes both the best (and worst) for you!<br />
-_(website link: https://malgow.net/(un)politeBot )_
-_(google chrome link: https://chrome.google.com/webstore/detail/unpolitebot/lbiljgbdngfccmlpeelfecfcmadlelde )_
-_(mozilla firefox link: https://addons.mozilla.org/en-GB/firefox/addon/un-politebot )_
+_(website link: https://malgow.net/(un)politeBot )_ <br />
+_(google chrome link: https://chrome.google.com/webstore/detail/unpolitebot/lbiljgbdngfccmlpeelfecfcmadlelde )_ <br />
+_(mozilla firefox link: https://addons.mozilla.org/en-GB/firefox/addon/un-politebot )_ <br />
 
 ![preview image 1](https://malgow.net/images/carousel/(u)pb%20carousel/upb2.PNG)
 ![preview image 2](https://malgow.net/images/carousel/(u)pb%20carousel/upb4.PNG)
